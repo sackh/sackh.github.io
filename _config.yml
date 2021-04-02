@@ -6,14 +6,14 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Sachin Kharude
+tagline:          'Software Engineer'
+description:      'I am currently working as Senior Software Engineer at HERE Technologies.'
 url:              https://sackh.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
+  name:           'Sachin Kharude'
   url:            https://sackh.github.io
 
 paginate:         5
@@ -22,7 +22,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/sackh/sackh.github.io
 
 plugins:
   - jekyll-paginate
