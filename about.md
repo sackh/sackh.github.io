@@ -4,27 +4,28 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hi, I am Sachin Kharude. I currently work as Senior Software Engineer at HERE Technologies. I enjoy working on opensource software. 
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Below are the opensource projects I have contributed.
 
-There are currently two themes built on Poole:
+- [Here Map Widget for Jupyter](https://github.com/heremaps/here-map-widget-for-jupyter)
+I am maintainer of this library which helps in using HERE Maps API for JavaScript in your Jupyter Notebooks.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+- [xyzspaces](https://github.com/heremaps/xyz-spaces-python)
+I am maintainer of this library which provides a Pythonic interface to manage your [XYZ hub](https://github.com/heremaps/xyz-hub) or [HERE Data Hub](https://developer.here.com/products/data-hub) spaces.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+- [HERE Location Services Python](https://github.com/heremaps/here-location-services-python)
+I am maintainer of this library which is a python client to [HERE Location Services](https://developer.here.com/documentation#services).
 
-## Setup
+- [Turfpy](https://github.com/omanges/turfpy)
+I am comaintainer of this library which is reimplemratation of [turf.js](https://turfjs.org/).
 
-Some fun facts about the setup of this project include:
+- [Maps CLI](https://github.com/sackh/maps-cli)
+I am maintainer of this library which is CLI for Map services providers.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+- [Ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet)
+I have contributed to this library which a Jupyter / Leaflet bridge enabling interactive maps in the Jupyter notebook.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
 Thanks for reading!
