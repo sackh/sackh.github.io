@@ -7,13 +7,15 @@ title: About
   Hi, I am Sachin Kharude. I currently work as Senior Software Engineer at HERE Technologies. I enjoy working on opensource software. 
 </p>
 
-Skills:
+**Skills**:
 
 - Python
 - JavaScript
 - Jupyter
 - Django
-- Flask,
+- Flask
+- Fast API
+- Data Science
 - Shell Scripting
 - Linux
 - SQL
@@ -23,7 +25,7 @@ Skills:
 - Travis-CI 
 - GitHub Actions
 
-Projects:
+**Projects**:
 
 - [Here Map Widget for Jupyter](https://github.com/heremaps/here-map-widget-for-jupyter)
 
@@ -48,6 +50,18 @@ I am maintainer of this library which is CLI for Map services providers.
 - [Ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet)
 
 I have contributed to this library which a Jupyter / Leaflet bridge enabling interactive maps in the Jupyter notebook.
+
+**Experience**:
+
+- Senior Software Engineer - HERE Technologies Dec 2019 to Present
+
+- Senior Software Engineer - Morgan Stanley Sep 2018 - Nov 2019
+
+- Senior Software Engineer - Bank of America Jan 2016 - Sep 2018
+
+- Software Engineer - Dion Global Solutions Apr 2015 - Jan 2016
+
+- Software Engineer - Amdocs Development Center India Jul 2012 - Mar 2015
 
 
 Thanks for reading!
