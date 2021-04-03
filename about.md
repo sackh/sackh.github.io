@@ -53,15 +53,21 @@ I have contributed to this library which a Jupyter / Leaflet bridge enabling int
 
 **Experience**:
 
-- Senior Software Engineer - HERE Technologies Dec 2019 to Present
+- Senior Software Engineer - HERE Technologies, Dec 2019 to Present
 
-- Senior Software Engineer - Morgan Stanley Sep 2018 - Nov 2019
+- Senior Software Engineer - Morgan Stanley, Sep 2018 - Nov 2019
 
-- Senior Software Engineer - Bank of America Jan 2016 - Sep 2018
+- Senior Software Engineer - Bank of America, Jan 2016 - Sep 2018
 
-- Software Engineer - Dion Global Solutions Apr 2015 - Jan 2016
+- Software Engineer - Dion Global Solutions, Apr 2015 - Jan 2016
 
-- Software Engineer - Amdocs Development Center India Jul 2012 - Mar 2015
+- Software Engineer - Amdocs Development Center India, Jul 2012 - Mar 2015
+
+**Blogs**:
+
+- [Here Maps API for JavaScript in your Jupyter notebooks](https://medium.com/geekculture/here-maps-api-for-javascript-in-your-jupyter-notebooks-6e012440a0d1)
+- [Miniconda Installer](https://sachinkharude10.medium.com/miniconda-installer-ec86fbd10241)
+
 
 
 Thanks for reading!
