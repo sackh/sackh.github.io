@@ -71,25 +71,27 @@ title: About
 
   A Jupyter / HERE Maps API for JavaScript bridge enabling interactive maps in the Jupyter notebook.
 
-  Github: https://github.com/heremaps/here-map-widget-for-jupyter
+  [Github](https://github.com/heremaps/here-map-widget-for-jupyter)
 
-  PyPI: https://pypi.org/project/here-map-widget-for-jupyter/
+  [PyPI](https://pypi.org/project/here-map-widget-for-jupyter/)
 
   **HERE Location Services**:
 
   A python client to access here location services.
 
-  Github: https://github.com/heremaps/here-location-services-python
+  [Github](https://github.com/heremaps/here-location-services-python)
 
-  PyPI: https://pypi.org/project/here-location-services/
+  [PyPI](https://pypi.org/project/here-location-services/)
 
   **HERE Data Hub**:
 
   A python client for HERE Data Hub. Here Data Hub is a cloud-based real-time geospatial data management solution.
 
-  Github: https://github.com/heremaps/xyz-spaces-python
+  [Github](https://github.com/heremaps/xyz-spaces-python)
 
-  PyPI: https://pypi.org/project/xyzspaces/ 
+  [PyPI](https://pypi.org/project/xyzspaces/)
+
+  I am also part of python SDK team which develops [HERE Data SDK for Python](https://developer.here.com/documentation/sdk-python-v2/dev_guide/index.html).
 
 - **Senior Software Engineer - [Morgan Stanley](https://www.morganstanley.com/), Sep 2018 - Nov 2019**
 
