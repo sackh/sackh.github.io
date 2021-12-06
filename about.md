@@ -64,7 +64,7 @@ title: About
 
 - [Ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet)
 
-  I have contributed features such as [Search Control](https://ipyleaflet.readthedocs.io/en/latest/api_reference/search_control.html)to this library along with bug fixes in other features. ipyleaflet is a Jupyter / Leaflet bridge enabling interactive maps in the Jupyter Notebooks.
+  I have contributed features such as [Search Control](https://ipyleaflet.readthedocs.io/en/latest/api_reference/search_control.html) to this library along with bug fixes in other features. ipyleaflet is a Jupyter / Leaflet bridge enabling interactive maps in the Jupyter Notebooks.
 
 - [leafmap](https://github.com/giswqs/leafmap)
    
@@ -81,29 +81,18 @@ title: About
 
   I mainly build open-source software in my current role. I am the author and maintainer of the below open-source python libraries.
 
-  *HERE Map Widget for Jupyter*:
+  *[HERE Map Widget for Jupyter](https://pypi.org/project/here-map-widget-for-jupyter/)*:
 
   A [Jupyter](https://jupyter.org/) / [HERE Maps API for JavaScript](https://developer.here.com/develop/javascript-api) for JavaScript bridge enabling interactive maps in the Jupyter notebook.
 
-  [Github](https://github.com/heremaps/here-map-widget-for-jupyter)
+  *[HERE Location Services]((https://pypi.org/project/here-location-services/))*:
 
-  [PyPI](https://pypi.org/project/here-map-widget-for-jupyter/)
+  A python client to access HERE location services.
 
-  *HERE Location Services*:
-
-  A python client to access here location services.
-
-  [Github](https://github.com/heremaps/here-location-services-python)
-
-  [PyPI](https://pypi.org/project/here-location-services/)
-
-  *HERE Data Hub*:
+  *[xyzspaces](https://pypi.org/project/xyzspaces/)*:
 
   A python client for HERE Data Hub. Here Data Hub is a cloud-based real-time geospatial data management solution.
 
-  [Github](https://github.com/heremaps/xyz-spaces-python)
-
-  [PyPI](https://pypi.org/project/xyzspaces/)
 
   I am also part of the Python SDK team which develops [HERE Data SDK for Python](https://developer.here.com/documentation/sdk-python-v2/dev_guide/index.html).
 
