@@ -42,7 +42,9 @@ title: About
 
 - [Here Map Widget for Jupyter](https://github.com/heremaps/here-map-widget-for-jupyter)
 
-  I am the maintainer of this library which helps in using HERE Maps API for JavaScript in your Jupyter Notebooks.
+  I am the maintainer of this library which helps in using [HERE Maps API for JavaScript](https://developer.here.com/develop/javascript-api) in your Jupyter Notebooks
+  and enables interactive maps in the Jupyter Notebooks.
+
 
 - [xyzspaces](https://github.com/heremaps/xyz-spaces-python)
 
@@ -54,7 +56,7 @@ title: About
 
 - [Turfpy](https://github.com/omanges/turfpy)
 
-  I am the coauthor and maintainer of this library which is a reimplementation of [turf.js](https://turfjs.org/).
+  I am the co-author and maintainer of this library which is a reimplementation of [turf.js](https://turfjs.org/) in Python.
 
 - [Maps CLI](https://github.com/sackh/maps-cli)
 
@@ -62,11 +64,11 @@ title: About
 
 - [Ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet)
 
-  I have contributed features such as [Search Control](https://ipyleaflet.readthedocs.io/en/latest/api_reference/search_control.html)to this library along with bug fixes in other features which is a Jupyter / Leaflet bridge enabling interactive maps in the Jupyter notebook.
+  I have contributed features such as [Search Control](https://ipyleaflet.readthedocs.io/en/latest/api_reference/search_control.html)to this library along with bug fixes in other features. ipyleaflet is a Jupyter / Leaflet bridge enabling interactive maps in the Jupyter Notebooks.
 
 - [leafmap](https://github.com/giswqs/leafmap)
    
-  A Python package for geospatial analysis and interactive mapping in a Jupyter environment. I have added new backend Here Map Widget for Jupyter in this package.
+  A Python package for geospatial analysis and interactive mapping in a Jupyter environment. I have added a new backend Here Map Widget for Jupyter in this package.
 
 - [xyzservices](https://github.com/geopandas/xyzservices)
 
@@ -103,7 +105,7 @@ title: About
 
   [PyPI](https://pypi.org/project/xyzspaces/)
 
-  I am also part of python SDK team which develops [HERE Data SDK for Python](https://developer.here.com/documentation/sdk-python-v2/dev_guide/index.html).
+  I am also part of the Python SDK team which develops [HERE Data SDK for Python](https://developer.here.com/documentation/sdk-python-v2/dev_guide/index.html).
 
 - **Senior Software Engineer - [Morgan Stanley](https://www.morganstanley.com/), Sep 2018 - Nov 2019**
 
@@ -120,7 +122,7 @@ title: About
 
 - **Software Engineer - [Dion Global Solutions ](https://www.dionglobal.com/), Apr 2015 - Jan 2016**
 
-   Post Trade processing solution for investment banks and stock brokers across the globe. It provides automation of vertical 
+   Post Trade processing solution for investment banks and stockbrokers across the globe. It provides automation of vertical 
    processes across multiple asset classes and regions, enabling firms to efficiently adapt to market and regulatory changes. It 
    supports equities, fixed income, futures, and options.
 
