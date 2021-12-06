@@ -81,15 +81,15 @@ title: About
 
   I mainly build open-source software in my current role. I am the author and maintainer of the below open-source python libraries.
 
-  **HERE Map Widget for Jupyter**:
+  *HERE Map Widget for Jupyter*:
 
-  A Jupyter / HERE Maps API for JavaScript bridge enabling interactive maps in the Jupyter notebook.
+  A [Jupyter](https://jupyter.org/) / [HERE Maps API for JavaScript](https://developer.here.com/develop/javascript-api) for JavaScript bridge enabling interactive maps in the Jupyter notebook.
 
   [Github](https://github.com/heremaps/here-map-widget-for-jupyter)
 
   [PyPI](https://pypi.org/project/here-map-widget-for-jupyter/)
 
-  **HERE Location Services**:
+  *HERE Location Services*:
 
   A python client to access here location services.
 
@@ -97,7 +97,7 @@ title: About
 
   [PyPI](https://pypi.org/project/here-location-services/)
 
-  **HERE Data Hub**:
+  *HERE Data Hub*:
 
   A python client for HERE Data Hub. Here Data Hub is a cloud-based real-time geospatial data management solution.
 
