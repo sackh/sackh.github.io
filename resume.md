@@ -44,17 +44,13 @@ An enthusiast solving real-world problems using software engineering skills with
   I mainly build open-source software in my current role. I am the author and maintainer of the below open-source python libraries.
 
   *[HERE Map Widget for Jupyter](https://pypi.org/project/here-map-widget-for-jupyter/)*:
-
   A [Jupyter](https://jupyter.org/) / [HERE Maps API for JavaScript](https://developer.here.com/develop/javascript-api) for JavaScript bridge enabling interactive maps in the Jupyter notebook.
 
   *[HERE Location Services]((https://pypi.org/project/here-location-services/))*:
-
   A python client to access HERE location services.
 
   *[xyzspaces](https://pypi.org/project/xyzspaces/)*:
-
   A python client for HERE Data Hub. Here Data Hub is a cloud-based real-time geospatial data management solution.
-
 
   I am also part of the Python SDK team which develops [HERE Data SDK for Python](https://developer.here.com/documentation/sdk-python-v2/dev_guide/index.html).
 
@@ -143,6 +139,7 @@ An enthusiast solving real-world problems using software engineering skills with
   [IpyLeaflet: Interactive maps in Jupyter Notebook](https://github.com/sackh/scipy-india-2020)
 
 **Publications**:
+
 - [Predicting Road Accident Risk Using Geospatial Data and
 Machine Learning (Demo Paper)](https://assets.amazon.science/0a/24/b8916d8c46b58a7a80bd520e87d6/predicting-road-accident-risk-using-geospatial-data-and-machine-learning-demo-paper.pdf)
 
