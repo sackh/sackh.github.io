@@ -3,7 +3,13 @@
 [![email](https://img.shields.io/static/v1.svg?label=Email&message=sachinkharude10@gmail.com&color=green)](mailto:sachinkharude10@gmail.com) ![mobile](https://img.shields.io/static/v1.svg?label=Mobile&message=9987386763&color=green) [![website](https://img.shields.io/static/v1.svg?label=Website&message=https://sackh.github.io&color=green)](https://sackh.github.io/about/) [![linkedin](https://img.shields.io/static/v1.svg?label=Linkedin&message=linkedin.com/in/sachinkharude&color=green)](https://www.linkedin.com/in/sachinkharude/)
  
 
-An enthusiast solving real-world problems using software engineering skills with passion for learning new technologies, building tools, and collaboration. 
+- An enthusiast solving real-world problems using software engineering skills with a passion for learning new technologies, building tools, and collaboration.
+- A seasoned professional with over **9.5 years** of experience in **Software Design**, **Development** and **Integration**.
+- Currently working in [HERE Technologies](https://www.here.com/) as **Senior Software Engineer** for **Location Platform SDK team**.
+- **Backend Software Engineer** with in-depth knowledge of **Data Structures and Algorithms**.
+- Significant contribtutions in **opensource** software: [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet), [leafmap](https://github.com/giswqs/leafmap), 
+  [HERE Map widget for Jupyter](https://github.com/heremaps/here-map-widget-for-jupyter) and [turfpy](https://github.com/omanges/turfpy).
+- Experienced in building web applications and sophisticated distributed systems.
 
 **Skills**:
 
@@ -39,56 +45,57 @@ An enthusiast solving real-world problems using software engineering skills with
 
 **Experience**:
 
-- **Senior Software Engineer - [HERE Technologies](https://www.here.com/), Dec 2019 to Present**
+* **Senior Software Engineer - [HERE Technologies](https://www.here.com/), Dec 2019 to Present**
 
-  I mainly build open-source software in my current role. I am the author and maintainer of the below open-source python libraries.
+    * I mainly build open-source software in my current role. I am the author and maintainer of the open-source python libraries.
+      *[HERE Map Widget for Jupyter](https://pypi.org/project/here-map-widget-for-jupyter/)*: A [Jupyter](https://jupyter.org/) / [HERE Maps API for JavaScript](https://developer.here.com/develop/javascript-api) for JavaScript bridge enabling interactive maps in the Jupyter notebook.
+      *[HERE Location Services]((https://pypi.org/project/here-location-services/))*: A python client to access HERE location services.
+      *[xyzspaces](https://pypi.org/project/xyzspaces/)*: A python client for HERE Data Hub. Here Data Hub is a cloud-based real-time geospatial data management solution.
 
-  *[HERE Map Widget for Jupyter](https://pypi.org/project/here-map-widget-for-jupyter/)*:
-  A [Jupyter](https://jupyter.org/) / [HERE Maps API for JavaScript](https://developer.here.com/develop/javascript-api) for JavaScript bridge enabling interactive maps in the Jupyter notebook.
+    * Apart from open-source libraries I also work on the development of [HERE Data SDK for Python](https://developer.here.com/documentation/sdk-python-v2/dev_guide/index. html) which makes using HERE Platform easy for developers and data scientists and Machine Learning  Engineers.
 
-  *[HERE Location Services]((https://pypi.org/project/here-location-services/))*:
-  A python client to access HERE location services.
+    * I prepare use cases and demos for the customers showcasing our python libraries and location data from the HERE Platform.
+    One of my demos on Machine learning use-cases was later presented at the ML conference [Predicting Road Accident Risk Using Geospatial Data and
+    Machine Learning (Demo Paper)](https://assets.amazon.science/0a/24/b8916d8c46b58a7a80bd520e87d6/predicting-road-accident-risk-using-geospatial-data-and-machine-learning-demo-paper.pdf)
 
-  *[xyzspaces](https://pypi.org/project/xyzspaces/)*:
-  A python client for HERE Data Hub. Here Data Hub is a cloud-based real-time geospatial data management solution.
+* **Senior Software Engineer - [Morgan Stanley](https://www.morganstanley.com/), Sep 2018 - Nov 2019**
 
-  I am also part of the Python SDK team which develops [HERE Data SDK for Python](https://developer.here.com/documentation/sdk-python-v2/dev_guide/index.html).
-
-- **Senior Software Engineer - [Morgan Stanley](https://www.morganstanley.com/), Sep 2018 - Nov 2019**
-
-   I was part of the development team for the Prime brokerage application called short sale approvals. The technology stack used is 
-   Python, Flask, Pandas, Sybase, Linux. This application allows users to approve short sell of particular Security based on market 
-   rules and availability of security in the firm's inventory. I have also developed various tools using python for this application. 
+   * I was part of the development team for the Prime brokerage application called short sale approvals. 
+   * The technology stack used is Python, Flask, Pandas, Sybase, Linux. 
+   * This application allows users to approve short sell of particular Security based on market rules and availability of security in the firm's inventory. I have also developed various tools using python for this application. 
  
 
-- **Senior Software Engineer - [Bank of America](https://www.bankofamerica.com/), Jan 2016 - Sep 2018**
+* **Senior Software Engineer - [Bank of America](https://www.bankofamerica.com/), Jan 2016 - Sep 2018**
 
-   Web application developed using web framework Flask which was used by Risk Managers in Bank of America to generate risk 
+   * Web applications developed using web framework Flask which was used by Risk Managers in Bank of America to generate risk 
    reports for various lines of businesses various types of reports supported are VaR, Limits, Sensitivities and Regulatory reports 
-   worked on both front-end and server-side application development.
+   * Worked on both front-end and server-side application and batch jobs development.
 
-- **Software Engineer - [Dion Global Solutions ](https://www.dionglobal.com/), Apr 2015 - Jan 2016**
+* **Software Engineer - [Dion Global Solutions ](https://www.dionglobal.com/), Apr 2015 - Jan 2016**
 
-   Post Trade processing solution for investment banks and stockbrokers across the globe. It provides automation of vertical 
-   processes across multiple asset classes and regions, enabling firms to efficiently adapt to market and regulatory changes. It 
-   supports equities, fixed income, futures, and options.
+   * Post Trade processing solution for investment banks and stockbrokers across the globe. It provides automation of vertical 
+   processes across multiple asset classes and regions, enabling firms to efficiently adapt to market and regulatory changes. 
+   * It supports equities, fixed income, futures, and options. 
+   * Technology stack used for this application was C++, Python, Postgres SQL, and Linux shell scripts.
 
-- **Software Engineer - [Amdocs Development Center India](https://www.amdocs.com/), Jul 2012 - Mar 2015**
+* **Software Engineer - [Amdocs Development Center India](https://www.amdocs.com/), Jul 2012 - Mar 2015**
 
-   The ensemble is Amdoc's product for Telecom customer care and billing solution.
-   It is a complete solution for customer management and revenue management which mainly focuses on billing, charging, and 
-   managing customer accounts.
+   * The ensemble is Amdocs product for Telecom customer care and billing solution.
+   * It is a complete solution for customer management and revenue management which mainly focuses on billing, charging and 
+   managing customer accounts. 
+   * I have worked as a backend engineer and developed C++ backend for ensemble products for billing and accounts receivable 
+   modules.
 
 
 **Education**:
 
-- **M.Tech.(Electronics)**, VJTI - Mumbai, 2010 - 2012,  *8.6 CGPA*
+- **M.Tech.(Electronics)**, VJTI - Mumbai, 2010 - 2012,  **8.6 CGPA**
 
-- **BE Electronics and Telecommunication**, Xavier Institute of Engineering Mumbai, 2005 - 2009, *72%*
+- **BE Electronics and Telecommunication**, Xavier Institute of Engineering Mumbai, 2005 - 2009, **72%**
 
-- **HSC in Science**, Patkar College Mumbai, 2003 - 2005, *82%*
+- **HSC in Science**, Patkar College Mumbai, 2003 - 2005, **82.5%**
 
-- **SSC**, Nandadeep Vidyalaya, 2003, *86.50%*
+- **SSC**, Nandadeep Vidyalaya, 2003, **86.5%**
 
 
 **Projects**:
@@ -142,5 +149,3 @@ An enthusiast solving real-world problems using software engineering skills with
 
 - [Predicting Road Accident Risk Using Geospatial Data and
 Machine Learning (Demo Paper)](https://assets.amazon.science/0a/24/b8916d8c46b58a7a80bd520e87d6/predicting-road-accident-risk-using-geospatial-data-and-machine-learning-demo-paper.pdf)
-
-
