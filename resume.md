@@ -1,6 +1,6 @@
 # Sachin Kharude
 ![location](https://img.shields.io/static/v1.svg?label=Location&message=India&color=green)
-[![email](https://img.shields.io/static/v1.svg?label=Email&message=sachinkharude10@gmail.com&color=green)](mailto:sachinkharude10@gmail.com) ![mobile](https://img.shields.io/static/v1.svg?label=Mobile&message=9987386763&color=green) [![website](https://img.shields.io/static/v1.svg?label=Website&message=https://sackh.github.io&color=green)](https://sackh.github.io/about/) [![linkedin](https://img.shields.io/static/v1.svg?label=Linkedin&message=linkedin.com/in/sachinkharude&color=green)](https://www.linkedin.com/in/sachinkharude/)
+[![email](https://img.shields.io/static/v1.svg?label=Email&message=sachinkharude10@gmail.com&color=green)](mailto:sachinkharude10@gmail.com) ![mobile](https://img.shields.io/static/v1.svg?label=Mobile&message=9987386763&color=green) [![GitHub](https://img.shields.io/static/v1.svg?label=GitHub&message=https://github.com/sackh&color=green)](https://github.com/sackh) [![linkedin](https://img.shields.io/static/v1.svg?label=Linkedin&message=linkedin.com/in/sachinkharude&color=green)](https://www.linkedin.com/in/sachinkharude/)
  
 
 - An enthusiast solving real-world problems using software engineering skills with a passion for learning new technologies, building tools, and collaboration.
