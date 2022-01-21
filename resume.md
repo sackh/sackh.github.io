@@ -6,10 +6,11 @@
 - An enthusiast solving real-world problems using software engineering skills with a passion for learning new technologies, building tools, and collaboration.
 - A seasoned professional with over **9.5 years** of experience in **Software Design**, **Development** and **Integration**.
 - Currently working in [HERE Technologies](https://www.here.com/) as **Senior Software Engineer** for **Location Platform SDK team**.
-- **Backend Software Engineer** with in-depth knowledge of **Data Structures and Algorithms**.
+- **Backend Software Engineer** with in-depth knowledge of **Data Structures** and **Algorithms**.
 - Significant contribtutions in **opensource** software: [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet), [leafmap](https://github.com/giswqs/leafmap), 
   [HERE Map widget for Jupyter](https://github.com/heremaps/here-map-widget-for-jupyter) and [turfpy](https://github.com/omanges/turfpy).
 - Experienced in building web applications and sophisticated distributed systems.
+- Very good understanding of **Object Oriented Programming**, **SDLC**, and **Agile methodologies**.
 
 **Skills**:
 
@@ -52,17 +53,19 @@
       *[HERE Location Services]((https://pypi.org/project/here-location-services/))*: A python client to access HERE location services.
       *[xyzspaces](https://pypi.org/project/xyzspaces/)*: A python client for HERE Data Hub. Here Data Hub is a cloud-based real-time geospatial data management solution.
 
-    * Apart from open-source libraries I also work on the development of [HERE Data SDK for Python](https://developer.here.com/documentation/sdk-python-v2/dev_guide/index. html) which makes using HERE Platform easy for developers and data scientists and Machine Learning  Engineers.
+    * Apart from open-source libraries I also work on the development of [HERE Data SDK for Python](https://developer.here.com/documentation/sdk-python-v2/dev_guide/index.html) which makes using HERE Platform easy for developers, data scientists, and Machine Learning  Engineers.
+
+    * I have built web applications using FastAPI web framework in python and AWS infrastructure such as AWS Lambda, APIGateway, CloudFormation, ECR.
 
     * I prepare use cases and demos for the customers showcasing our python libraries and location data from the HERE Platform.
-    One of my demos on Machine learning use-cases was later presented at the ML conference [Predicting Road Accident Risk Using Geospatial Data and
-    Machine Learning (Demo Paper)](https://assets.amazon.science/0a/24/b8916d8c46b58a7a80bd520e87d6/predicting-road-accident-risk-using-geospatial-data-and-machine-learning-demo-paper.pdf)
+   
+    * Technology stack: Python, FastAPI, JavaScript, PostgreSQL, AWS, Docker, Linux, Git.
 
 * **Senior Software Engineer - [Morgan Stanley](https://www.morganstanley.com/), Sep 2018 - Nov 2019**
 
    * I was part of the development team for the Prime brokerage application called short sale approvals. 
-   * The technology stack used is Python, Flask, Pandas, Sybase, Linux. 
-   * This application allows users to approve short sell of particular Security based on market rules and availability of security in the firm's inventory. I have also developed various tools using python for this application. 
+   * This application allows users to approve short sell of particular Security based on market rules and availability of security in the firm's inventory. I have also developed various tools using python for this application.
+   * Technology stack: Python, Flask, Pandas, Sybase, Linux, Git
  
 
 * **Senior Software Engineer - [Bank of America](https://www.bankofamerica.com/), Jan 2016 - Sep 2018**
@@ -70,13 +73,14 @@
    * Web applications developed using web framework Flask which was used by Risk Managers in Bank of America to generate risk 
    reports for various lines of businesses various types of reports supported are VaR, Limits, Sensitivities and Regulatory reports 
    * Worked on both front-end and server-side application and batch jobs development.
+   * Technology stack: Python, Flask, Sybase, Linux. 
 
 * **Software Engineer - [Dion Global Solutions ](https://www.dionglobal.com/), Apr 2015 - Jan 2016**
 
    * Post Trade processing solution for investment banks and stockbrokers across the globe. It provides automation of vertical 
    processes across multiple asset classes and regions, enabling firms to efficiently adapt to market and regulatory changes. 
    * It supports equities, fixed income, futures, and options. 
-   * Technology stack used for this application was C++, Python, Postgres SQL, and Linux shell scripts.
+   * Technology stack: C++, Python, PostgreSQL, AWS, Linux shell scripts, Git.
 
 * **Software Engineer - [Amdocs Development Center India](https://www.amdocs.com/), Jul 2012 - Mar 2015**
 
@@ -85,6 +89,7 @@
    managing customer accounts. 
    * I have worked as a backend engineer and developed C++ backend for ensemble products for billing and accounts receivable 
    modules.
+   * Technology stack: C++, Python, PostgreSQL, Linux shell scripts, Git.
 
 
 **Education**:
@@ -98,7 +103,7 @@
 - **SSC**, Nandadeep Vidyalaya, 2003, **86.5%**
 
 
-**Projects**:
+**Opensource Contributions**:
 
 - [Here Map Widget for Jupyter](https://github.com/heremaps/here-map-widget-for-jupyter)
 
