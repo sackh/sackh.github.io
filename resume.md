@@ -4,7 +4,7 @@
  
 
 - An enthusiast solving real-world problems using software engineering skills with a passion for learning new technologies, building tools, and collaboration.
-- A seasoned professional with over **9.5 years** of experience in **Software Design**, **Development** and **Integration**.
+- A seasoned professional with over **9.10 years** of experience in **Software Design**, **Development** and **Integration**.
 - Currently working in [HERE Technologies](https://www.here.com/) as **Senior Software Engineer** for **Location Platform SDK team**.
 - **Backend Software Engineer** with in-depth knowledge of **Data Structures** and **Algorithms**.
 - Significant contribtutions in **opensource** software: [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet), [leafmap](https://github.com/giswqs/leafmap), 
