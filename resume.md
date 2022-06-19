@@ -54,6 +54,8 @@
       *[xyzspaces](https://pypi.org/project/xyzspaces/)*: A python client for HERE Data Hub. Here Data Hub is a cloud-based real-time geospatial data management solution.
 
     * Apart from open-source libraries I also work on the development of [HERE Data SDK for Python](https://developer.here.com/documentation/sdk-python-v2/dev_guide/index.html) which makes using HERE Platform easy for developers, data scientists, and Machine Learning  Engineers.
+    
+    * I wrote *[mlflow](https://mlflow.org/)* plugin for location platform ML lifecycle management which tracks ML projects and models.
 
     * I have built web applications using FastAPI web framework in python and AWS infrastructure such as AWS Lambda, APIGateway, CloudFormation, ECR.
 
