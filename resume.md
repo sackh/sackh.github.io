@@ -50,7 +50,7 @@
 
     * I mainly build open-source software in my current role. I am the author and maintainer of the open-source python libraries.
       *[HERE Map Widget for Jupyter](https://pypi.org/project/here-map-widget-for-jupyter/)*: A [Jupyter](https://jupyter.org/) / [HERE Maps API for JavaScript](https://developer.here.com/develop/javascript-api) for JavaScript bridge enabling interactive maps in the Jupyter notebook.
-      *[HERE Location Services]((https://pypi.org/project/here-location-services/))*: A python client to access HERE location services.
+      *[HERE Location Services](https://pypi.org/project/here-location-services/)*: A python client to access HERE location services.
       *[xyzspaces](https://pypi.org/project/xyzspaces/)*: A python client for HERE Data Hub. Here Data Hub is a cloud-based real-time geospatial data management solution.
 
     * Apart from open-source libraries I also work on the development of [HERE Data SDK for Python](https://developer.here.com/documentation/sdk-python-v2/dev_guide/index.html) which makes using HERE Platform easy for developers, data scientists, and Machine Learning  Engineers.
